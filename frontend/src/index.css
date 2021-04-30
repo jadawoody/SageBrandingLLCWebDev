@@ -1,0 +1,20 @@
+/* HOME PAGE */
+.homeHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.homeLogo{
+    height: 40vw;
+    width: 40vw;
+    /* margin-left: 30vw;
+    margin-right: 30vw; */
+}
+.menu{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.menu li{
+    padding: 10px;
+}
